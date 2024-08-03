@@ -1,0 +1,21 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": ".",
+    "checkJs": true,
+    "importHelpers": true,
+    "lib": ["ESNext", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "noEmit": true,
+    "rootDir": ".",
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "target": "ESNext",
+    "paths": {
+      "@": ["libs/project-test/src/index.ts"]
+    }
+  }
+}
