@@ -1,6 +1,6 @@
 # VSCode ESLint Extension Repro
 
-Repro for [VSCode ESLint Extension](https://github.com/microsoft/vscode-eslint) with [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)'s `projectService` breaking for new files.
+Repro for [VSCode ESLint Extension](https://github.com/microsoft/vscode-eslint) with [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)'s `projectService` breaking for new files. Created for [this](https://github.com/microsoft/vscode-eslint/issues/1911) VSCode Extension Issue.
 
 ## Steps to reproduce
 
